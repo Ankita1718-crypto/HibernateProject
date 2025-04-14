@@ -1,23 +1,23 @@
 # E-Commerce Management System using Hibernate ORM Using Eclipse IDE
 
-## Overview
+##  :lotus_position: Overview
 
 *This project presents a structured implementation of **Object-Relational Mapping (ORM)** utilizing the **Hibernate Framework**. It is designed to develop a functional  **E-Commerce Management System** that streamlines **the management of Categories, Products, Users, and Orders, with support for multiple Order Details per order**.*
 
-### Technologies Used :-
+### :robot: Technologies Used :-
 
 - *Hibernate Framework.*
 - *JDBC(Java Database Connectivity).*
 - *MySQL (as the Database).*
 - *Eclipse IDE (or any preferred Java IDE).*
 
-## Project Features :-
+## :dizzy: Project Features :-
 
 - Create, update, and manage ***Categories**, **Products***, and ***Users***.
 - Place ***Orders*** with corresponding ***Order Details***.
 - Retrieve comprehensive ***Order*** information including linked ***Users*** and ***Products***.
 
-## Setup Instructions :-
+## :space_invader: Setup Instructions :-
 
 ## 1. Open the Project in Your IDE :
 - Import the project into ***Eclipse, IntelliJ IDEA***, or any compatible Java IDE.
@@ -49,7 +49,7 @@
 - Entity relationships are clearly defined using Hibernate’s cardinality annotations.
 - Passwords are securely hashed using ***BCrypt*** , enhancing application security.
   
-## Author
+## :writing_hand: Author
 
 **Ankita Debnath**  
 *Developer and Creator of the E-Commerce Management System using Hibernate ORM Using Eclipse IDE.*
