@@ -1,7 +1,7 @@
 ## 👉 Test Cases for E-Commerce Project 👈
 This document outlines representative test scenarios to verify key functionalities within the E-Commerce Management System.
 
-## 🧪 Test Case 1: User Registration – Admin Role
+## 🧪 Test Case 1: User Registration – *Admin Role*
 Description: Register a new user with administrative privileges and validate proper user creation and security measures.
 
 *Input:*
@@ -17,7 +17,7 @@ Description: Register a new user with administrative privileges and validate pro
 - Password is hashed securely using BCrypt prior to storage.
 - Role-based access control is enabled with the assigned ADMIN role.
 
-## 🧪 Test Case 2: Add a New Product Category – Electronics
+## 🧪 Test Case 2: Add a New Product Category – *Electronics*
 Description: Create a new category under electronics and confirm its successful addition.
 
 *Input:*
@@ -31,7 +31,7 @@ Description: Create a new category under electronics and confirm its successful 
 - A new category entry is created with a unique category ID.
 -The category becomes selectable for product classification.
 
-## 🧪 Test Case 3: Insert New Product – Bluetooth Speaker
+## 🧪 Test Case 3: Insert New Product – *Bluetooth Speaker*
 Description: Add a new electronic product to inventory and validate product entry.
 
 *Input:*
@@ -47,7 +47,7 @@ Description: Add a new electronic product to inventory and validate product entr
 - Product is visible in the inventory and available for ordering.
 - Associated stock quantity is accurately recorded.
 
-## 🧪 Test Case 4: Place an Order – Existing Customer
+## 🧪 Test Case 4: Place an Order – *Existing Customer*
 Description: Simulate order placement by a customer and ensure data consistency between orders and order details.
 
 *Pre-conditions:*
