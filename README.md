@@ -2,7 +2,7 @@
 
 ## Overview
 
-*This project presents a structured implementation of **Object-Relational Mapping (ORM)** utilizing the **Hibernate Framework**. It is designed to develop a functional **E-Commerce Management System** that streamlines **the management of Categories, Products, Users, and Orders, with support for multiple Order Details per order**.*
+*This project presents a structured implementation of **Object-Relational Mapping (ORM)** utilizing the **Hibernate Framework**. It is designed to develop a functional  **E-Commerce Management System** that streamlines **the management of Categories, Products, Users, and Orders, with support for multiple Order Details per order**.*
 
 ### Technologies Used :-
 
