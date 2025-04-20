@@ -29,7 +29,7 @@
 
 ## 3. Configure the Database :
 - ***Establish a local MySQL database instance***.
-- Edit the **'hibernate.cfg.xml'** file with your specific database configuration:
+- Edit the ***'hibernate.cfg.xml'*** file with your specific database configuration:
 - ***JDBC URL (including hostname, port, and database name)***
 - ***Database credentials (username and password).***
 
